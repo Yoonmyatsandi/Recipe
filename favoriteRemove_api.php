@@ -10,7 +10,7 @@ if ($conn->connect_error) {
  
 try {
     $dsn = 'mysql:host=localhost;dbname=recipe_1;charset=utf8';
-    $pdo = new PDO($dsn, 'root', 'Y@myatsandi123');
+    $pdo = new PDO($dsn, '', '');
 } catch (PDOException $e) {
 
     die('Database connection failed: ' . $e->getMessage());
