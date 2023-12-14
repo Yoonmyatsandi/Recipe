@@ -47,7 +47,6 @@ function fetchFavoriteRecipes($userId)
             $html .= '<figcaption>';
             $html .= '<div class="recipe-details">';
             $html .= '<div class="favorite" id="favoriteBtn-' . $row['id'] . '" onclick="toggleLike(this, ' . $row['id'] . ')"><i class="bi ' . ($row['favorite'] ? 'bi-heart-fill' : 'bi-heart') . '"></i></div>';
-            $html .= '<br><br>';
             $html .= '<h4 style="margin-bottom: 25px; font-weight: bold;" class="recipe-title">' . $row['title'] . '</h4>';
             $html .= '<div class="cook-time"><i class="bi bi-clock"></i> Cooking Time: ' . $row['cooking_time'] . ' mins</div>';
             $html .= '<h5><i class="bi bi-geo-alt-fill"></i>' . $row['country'] . '</h5>';
