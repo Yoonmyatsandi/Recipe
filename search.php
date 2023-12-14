@@ -68,7 +68,10 @@ session_start();
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    margin: 20px;
+    /* margin: 20px; */
+    width: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
 }
 
 .snip1336 h4 {
