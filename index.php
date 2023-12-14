@@ -752,15 +752,14 @@ overflow-y: hidden !important;
         <i class="bi bi-heart-fill"></i>
             </div>
           
-            <h4 style="margin-bottom:25px; font-weight:bold;">Quinoa Stuffed Bell Peppers</h4>
+            <h4 style="margin-bottom:25px; font-weight:bold;">Vegetarian Chili</h4>
             <div class="cook-time">
                 <i class="bi bi-clock"></i> Cooking Time: 25 mins
             </div>
             <h5><i class="bi bi-geo-alt-fill"></i>International</h5>
              <h5><i class="bi bi-circle-fill"></i>Main Course</h5>
              <h5><i class="bi bi-circle-fill"></i>Vegan</h5>
-            <p>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p>Description: Hearty and flavorful vegetarian chili with beans and vegetables.</p>
         </div>
          <a href="./recipe1details.php" style="width:100%" class="follow">View Recipe</a>
 
@@ -781,10 +780,9 @@ overflow-y: hidden !important;
                 <i class="bi bi-clock"></i> Cooking Time: 30 mins
             </div>
             <h5><i class="bi bi-geo-alt-fill"></i>Thailand</h5>
-             <h5><i class="bi bi-circle-fill"></i>Soup</h5>
+             <h5><i class="bi bi-circle-fill"></i>Appetizer</h5>
              <h5><i class="bi bi-circle-fill"></i>Meat</h5>
-            <p>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p>Description: Tender and smoky pulled pork sandwich with barbecue sauce.</p>
         </div>
         <a href="./recipe2details.php" style="width:100%" class="follow">View Recipe</a>
 
@@ -805,8 +803,7 @@ overflow-y: hidden !important;
             <h5><i class="bi bi-geo-alt-fill"></i>Mexico</h5>
              <h5><i class="bi bi-circle-fill"></i>Dessert</h5>
              <h5><i class="bi bi-circle-fill"></i>Vegetarian</h5>
-            <p>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p>Description: Juicy grilled chicken marinated in lemon and herbs.</p>
         </div>
          <a href="./recipe3details.php" style="width:100%" class="follow">View Recipe</a>
 
@@ -829,8 +826,7 @@ overflow-y: hidden !important;
             <h5><i class="bi bi-geo-alt-fill"></i>India</h5>
              <h5><i class="bi bi-circle-fill"></i>Side Dish</h5>
              <h5><i class="bi bi-circle-fill"></i>Beverage</h5>
-            <p>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p>Description: LSavory and satisfying burritos with sweet potatoes and black beans.</p>
         </div>
          <a href="./recipe1details.php" style="width:100%" class="follow">View Recipe</a>
 
@@ -846,15 +842,14 @@ overflow-y: hidden !important;
         <i class="bi bi-heart-fill"></i>
             </div>
           
-            <h4 style="margin-bottom:25px; font-weight:bold;">Vegan Chocolate Avocado Mousse</h4>
+            <h4 style="margin-bottom:25px; font-weight:bold;">Caprese Salad</h4>
             <div class="cook-time">
                 <i class="bi bi-clock"></i> Cooking Time: 20 mins
             </div>
             <h5><i class="bi bi-geo-alt-fill"></i>Italy</h5>
              <h5><i class="bi bi-circle-fill"></i>Main Course</h5>
              <h5><i class="bi bi-circle-fill"></i>Vegan</h5>
-            <p>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p>Description: Fresh and vibrant Caprese salad with tomatoes, mozzarella, and basil.</p>
         </div>
          <a href="./recipe2details.php" style="width:100%" class="follow">View Recipe</a>
 
@@ -877,8 +872,7 @@ overflow-y: hidden !important;
             <h5><i class="bi bi-geo-alt-fill"></i>Japan</h5>
              <h5><i class="bi bi-circle-fill"></i>Appetizer</h5>
              <h5><i class="bi bi-circle-fill"></i>Seafood</h5>
-            <p>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p>Description: Warm and comforting pumpkin spice latte, perfect for fall.</p>
         </div>
          <a href="./recipe3details.php" style="width:100%" class="follow">View Recipe</a>
 
@@ -894,15 +888,14 @@ overflow-y: hidden !important;
         <i class="bi bi-heart-fill"></i>
             </div>
           
-            <h4 style="margin-bottom:25px; font-weight:bold;">Crispy Baked Zucchini Fries</h4>
+            <h4 style="margin-bottom:25px; font-weight:bold;">Mushroom Risotto</h4>
             <div class="cook-time">
                 <i class="bi bi-clock"></i> Cooking Time: 35 mins
             </div>
             <h5><i class="bi bi-geo-alt-fill"></i>International</h5>
              <h5><i class="bi bi-circle-fill"></i>Appetizer</h5>
              <h5><i class="bi bi-circle-fill"></i>Meat</h5>
-            <p>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p>Description: Creamy and flavorful mushroom risotto, a classic main course.</p>
         </div>
          <a href="./recipe1details.php" style="width:100%" class="follow">View Recipe</a>
 
@@ -925,8 +918,7 @@ overflow-y: hidden !important;
             <h5><i class="bi bi-geo-alt-fill"></i>Thailand Recipe</h5>
              <h5><i class="bi bi-circle-fill"></i>Main Course</h5>
              <h5><i class="bi bi-circle-fill"></i>Vegetarian</h5>
-            <p>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p>Description: Creamy pasta tossed in pesto sauce with burst cherry tomatoes.</p>
         </div>
          <a href="./recipe2details.php" style="width:100%" class="follow">View Recipe</a>
 
